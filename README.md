@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Konrad
 - 👀 I’m interested in analysing medical data sets and more. 
-- 🌱 I’m currently learning machine learning basics. 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning machine learning basic and programming.
 
 <!---
 Darnok93/Darnok93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
